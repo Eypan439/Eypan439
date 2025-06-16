@@ -66,7 +66,7 @@ A project that uses ESP32-cam module to capture images from a camera mounted on 
 A mobile calculator application with a modern interface using Kotlin Compose.
 
 ### Medium Transmission Line Calculator
-Parameter calculation for T and Pi circuits with medium transmission line simulation. [GitHub Repo](https://img.icons8.com/?size=192&id=80462&format=png)
+Parameter calculation for T and Pi circuits with medium transmission line simulation. [GitHub Repo](https://github.com/Eypan439/Medium_Transmission_Line_Calculator)
 
 ### SEDC Motor Speed Control
 SEDC motor speed control project implemented using Fuzzy Logic and PID through MATLAB Simulink.
