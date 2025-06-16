@@ -1,15 +1,65 @@
-<div align="center">
-  <img src="https://camo.githubusercontent.com/05713a6b4f25d263e6d3bd0e7b22ddbe40749e6d2a3ae3b965f4e0cd37c8dd82/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d3430266475726174696f6e3d3330303026636f6c6f723d3330444337322663656e7465723d74727565267643656e7465723d747275652677696474683d383030266865696768743d313030266c696e65733d49276d2b616e2b416e64726f69642b446576656c6f7065723b" alt="Your GIF" width="634" height="100">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Eyy%C3%BCphan;Mobil+Developer+And+Matlab+User)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=5114590928021528742&hl=tr&gl=US">
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Your Icon" width="50" height="50">&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/eyy%C3%BCphan-%C3%A7ak%C4%B1r-261473190/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="Icon 2" width="50" height="50">&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="mailto:eypan439@yaani.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Icon 3" width="50" height="50">
-  </a>
-</p>
+# Eyyüphan ÇAKIR
+
+## 👨‍💻 About Me
+I'm pursuing my master's degree in Electrical and Electronics Engineering. I'm passionate about developing software on platforms such as mobile programming, MATLAB, microprocessors, and Arduino. I enjoy following innovations in technology and engineering and applying them to my projects.
+
+## 📫 Contact
+- **Email:** [Eyyüphan ÇAKIR](mailto:eypan439@yaani.com)
+- **LinkedIn:** [Eyyüphan ÇAKIR](https://www.linkedin.com/in/eyy%C3%BCphan-%C3%A7ak%C4%B1r-261473190/)
+- **Website:** [eyyuphan.my.canva.site/eyyuphan](https://eyyuphan.my.canva.site/eyyuphan)
+- **GitHub:** [eyyuphancakir](https://github.com/Eypan439)
+
+## 🛠️ Skills
+### Mobile Programming
+```
+███████████████████████░░░ 90%
+```
+
+### MATLAB
+```
+█████████████████████░░░░░ 85%
+```
+
+### Arduino
+```
+███████████████████████░░░ 95%
+```
+
+### Microprocessors
+```
+████████████████████░░░░░░ 80%
+```
+
+## 💻 Technologies
+- Arduino
+- MATLAB
+- Mobile Development
+- Microprocessors
+
+## 🚀 Projects
+### Smart Glasses for Visually Impaired
+A project that uses ESP32-cam module to capture images from a camera mounted on glasses and provides AI-interpreted audio feedback to the user.
+
+### Kotlin Compose Calculator
+A mobile calculator application with a modern interface using Kotlin Compose.
+
+### Medium Transmission Line Calculator
+Parameter calculation for T and Pi circuits with medium transmission line simulation. [GitHub Repo](#)
+
+### SEDC Motor Speed Control
+SEDC motor speed control project implemented using Fuzzy Logic and PID through MATLAB Simulink.
+
+## 🎓 Education
+### Giresun Üniversitesi
+**Master's Degree - Electrical and Electronics Engineering**  
+Giresun University - Ongoing
+
+### Karadeniz Teknik Üniversitesi
+**Bachelor's Degree - Electrical and Electronics Engineering**  
+Karadeniz Technical University - Completed
+
+---
+
+⭐️ From [eyyuphancakir](https://github.com/Eypan439)
