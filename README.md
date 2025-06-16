@@ -5,11 +5,43 @@
 ## 👨‍💻 About Me
 I'm pursuing my master's degree in Electrical and Electronics Engineering. I'm passionate about developing software on platforms such as mobile programming, MATLAB, microprocessors, and Arduino. I enjoy following innovations in technology and engineering and applying them to my projects.
 
+<style>
+  @media (max-width: 768px) {
+    div[align="center"] {
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    div[align="center"] a {
+      margin: 0 10px;
+    }
+  }
+</style>
+
 ## 📫 Contact
-- **Email:** [Eyyüphan ÇAKIR](mailto:eypan439@yaani.com)
-- **LinkedIn:** [Eyyüphan ÇAKIR](https://www.linkedin.com/in/eyy%C3%BCphan-%C3%A7ak%C4%B1r-261473190/)
-- **Website:** [eyyuphan.my.canva.site/eyyuphan](https://eyyuphan.my.canva.site/eyyuphan)
-- **GitHub:** [eyyuphancakir](https://github.com/Eypan439)
+
+<div align="center" style="display: flex; justify-content: center; gap: 35px;">
+  <a href="mailto:eypan439@yaani.com">
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="60">
+  </a>
+    <a href="YENİ_LİNK_BURAYA" title="Custom Icon">
+    <img src="https://img.icons8.com/?size=100&id=PRn581yM6LbM&format=png" alt="Custom Icon" width="60">
+  </a>
+  <a href="https://www.linkedin.com/in/eyy%C3%BCphan-%C3%A7ak%C4%B1r-261473190/">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60">
+  </a>
+  <a href="YENİ_LİNK_BURAYA" title="Custom Icon">
+    <img src="https://img.icons8.com/?size=100&id=PRn581yM6LbM&format=png" alt="Custom Icon" width="60">
+  </a>
+  <a href="https://eyyuphan.my.canva.site/eyyuphan">
+    <img src="https://img.icons8.com/fluency/96/000000/domain.png" alt="Website" width="60">
+  </a>
+    <a href="YENİ_LİNK_BURAYA" title="Custom Icon">
+    <img src="https://img.icons8.com/?size=100&id=PRn581yM6LbM&format=png" alt="Custom Icon" width="60">
+  </a>
+  <a href="https://github.com/Eypan439">
+    <img src="https://img.icons8.com/ios-filled/96/000000/github.png" alt="GitHub" width="60">
+  </a>
+</div>
 
 ## 🛠️ Skills
 ### Mobile Programming
