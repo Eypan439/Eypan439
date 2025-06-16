@@ -5,18 +5,6 @@
 ## 👨‍💻 About Me
 I'm pursuing my master's degree in Electrical and Electronics Engineering. I'm passionate about developing software on platforms such as mobile programming, MATLAB, microprocessors, and Arduino. I enjoy following innovations in technology and engineering and applying them to my projects.
 
-<style>
-  @media (max-width: 768px) {
-    div[align="center"] {
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-    div[align="center"] a {
-      margin: 0 10px;
-    }
-  }
-</style>
-
 ## 📫 Contact
 
 <div align="center" style="display: flex; justify-content: center; gap: 35px;">
