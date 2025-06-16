@@ -27,7 +27,7 @@ I'm pursuing my master's degree in Electrical and Electronics Engineering. I'm p
     <img src="https://img.icons8.com/?size=100&id=PRn581yM6LbM&format=png" alt="Custom Icon" width="60">
   </a>
   <a href="https://github.com/Eypan439">
-    <img src="https://img.icons8.com/ios-filled/96/000000/github.png" alt="GitHub" width="60">
+    <img src="https://img.icons8.com/?size=192&id=80462&format=png" alt="GitHub" width="60">
   </a>
 </div>
 
